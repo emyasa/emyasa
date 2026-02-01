@@ -1,1 +1,1 @@
-Just a guy who enjoys the craft of building, maintaining, and taming backend services (modern when possible, legacy when necessary), aiming to make them at least a little less painful to work with than before.
+Just a guy who enjoys the craft of building, maintaining, and <i>taming</i> backend services (modern when possible, legacy when necessary), aiming to make them at least a little less painful to work with than before.
